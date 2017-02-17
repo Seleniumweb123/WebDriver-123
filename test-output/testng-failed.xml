@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="OHRTest(failed)">
+    <classes>
+      <class name="com.testng.AddEmployeeTest">
+        <methods>
+          <include name="addEmp"/>
+          <include name="appLogin"/>
+          <include name="appLaunch"/>
+        </methods>
+      </class> <!-- com.testng.AddEmployeeTest -->
+      <class name="com.testng.UserRegistrationTest">
+        <methods>
+          <include name="userReg"/>
+        </methods>
+      </class> <!-- com.testng.UserRegistrationTest -->
+    </classes>
+  </test> <!-- OHRTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

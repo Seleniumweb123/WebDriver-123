@@ -1,0 +1,12 @@
+
+<suite name="Suite">
+  <test name="OHRTest">
+    <classes>
+      
+     
+      <class name="com.testng.AddEmployeeTest"/>
+      <class name="com.testng.UserRegistrationTest"/>
+     
+    </classes>
+  </test> 
+</suite> 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3526" started-at="2017-02-17T19:20:17Z" finished-at="2017-02-17T19:20:20Z">
+    <groups>
+    </groups>
+    <test name="OHRTest" duration-ms="3526" started-at="2017-02-17T19:20:17Z" finished-at="2017-02-17T19:20:20Z">
+      <class name="com.testng.UserRegistrationTest">
+        <test-method status="PASS" signature="userReg()[pri:0, instance:com.testng.UserRegistrationTest@2f8891c4]" name="userReg" duration-ms="0" started-at="2017-02-17T11:20:20Z" finished-at="2017-02-17T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userReg -->
+      </class> <!-- com.testng.UserRegistrationTest -->
+      <class name="com.testng.AddEmployeeTest">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.testng.AddEmployeeTest@6256c88c]" name="appLaunch" is-config="true" duration-ms="13712" started-at="2017-02-17T11:20:03Z" finished-at="2017-02-17T11:20:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.testng.AddEmployeeTest@6256c88c]" name="appLogin" is-config="true" duration-ms="3485" started-at="2017-02-17T11:20:17Z" finished-at="2017-02-17T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:com.testng.AddEmployeeTest@6256c88c]" name="addEmp" duration-ms="0" started-at="2017-02-17T11:20:20Z" finished-at="2017-02-17T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="appLogout()[pri:0, instance:com.testng.AddEmployeeTest@6256c88c]" name="appLogout" is-config="true" duration-ms="0" started-at="2017-02-17T11:20:20Z" finished-at="2017-02-17T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogout -->
+        <test-method status="PASS" signature="appclose()[pri:0, instance:com.testng.AddEmployeeTest@6256c88c]" name="appclose" is-config="true" duration-ms="0" started-at="2017-02-17T11:20:20Z" finished-at="2017-02-17T11:20:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appclose -->
+      </class> <!-- com.testng.AddEmployeeTest -->
+    </test> <!-- OHRTest -->
+  </suite> <!-- Suite -->
+</testng-results>
